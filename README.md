@@ -1,6 +1,7 @@
-# medifo1
+# medifo
 
 A new Flutter application.
+That helps user to get information of medicine using its image.
 
 ## Getting Started
 
